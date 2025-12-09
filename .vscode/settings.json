@@ -1,0 +1,34 @@
+{
+  "mssql.connections": [
+    {
+      "server": "localhost",
+      "database": "Cust_Shop_Behaviour",
+      "authenticationType": "Integrated",
+      "profileName": "Cust_Shop_Behaviour_Local",
+      "password": ""
+    }
+  ],
+  "mssql.intelliSense.enableIntelliSense": true,
+  "mssql.format.alignColumnDefinitionsInColumns": true,
+  "mssql.format.datatypeCasing": "uppercase",
+  "mssql.format.keywordCasing": "uppercase",
+  "sqltools.connections": [
+    {
+      "connectionTimeout": 15,
+      "mssqlOptions": {
+        "appName": "SQLTools",
+        "useUTC": true,
+        "encrypt": true,
+        "trustServerCertificate": false
+      },
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 1433,
+      "driver": "MSSQL",
+      "name": "ksaidatta\\SQLEXPRESS",
+      "database": "ksaidatta",
+      "username": "ksaidatta\\SQLEXPRESS"
+    }
+  ]
+}
