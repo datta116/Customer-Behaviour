@@ -5,7 +5,7 @@ An end-to-end data engineering and analytics project exploring customer purchasi
 ## 📊 Dashboard Preview
 Click the image below to open the **Live Interactive Dashboard**.
 
-[![Customer Behavior Dashboard](https://raw.githubusercontent.com/your-username/your-repo-name/main/dashboard_preview.png)](https://app.powerbi.com/view?r=eyJrIjoiNWRhYzQzMzgtNmQzNS00NThhLTkzNDgtMzNmZDNhZjUxNmFmIiwidCI6IjEwZDg5ZTg1LWM2MTEtNDk5MS04YmNiLTJiYzM0MjFlMDYwZCJ9)
+[![Customer Behavior Dashboard]([https://raw.githubusercontent.com/your-username/your-repo-name/main/dashboard_preview.png](https://github.com/datta116/Customer-Behaviour/blob/b9e4ef0b2bc68d3eecd034ae6bdb892511ecca29/Docs/1209.gif))](https://app.powerbi.com/view?r=eyJrIjoiNWRhYzQzMzgtNmQzNS00NThhLTkzNDgtMzNmZDNhZjUxNmFmIiwidCI6IjEwZDg5ZTg1LWM2MTEtNDk5MS04YmNiLTJiYzM0MjFlMDYwZCJ9)
 
 > **[🚀 Click Here to Open Live Report](https://app.powerbi.com/view?r=eyJrIjoiNWRhYzQzMzgtNmQzNS00NThhLTkzNDgtMzNmZDNhZjUxNmFmIiwidCI6IjEwZDg5ZTg1LWM2MTEtNDk5MS04YmNiLTJiYzM0MjFlMDYwZCJ9)**
 
