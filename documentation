@@ -1,0 +1,22 @@
+this is about customer behaviour
+
+=================================================================================
+PYTHON
+=================================================================================
+
+DATA CLEANING:
+found review rating has nulls ,so replaced it with na using lambda  
+made everything lower case,remove -,_ and some abbr
+
+FEATURE ENGINEERING 
+created new column grouped ages into 4 quarters (Young,adult Middle-age,Senior)
+create new column changed the frquency of days from charcs to int (monthly=30)
+
+DATA LOADING 
+loaded the cleaned data into MSSQL using createengine and qouteplus
+
+=================================================================================
+SQL
+=================================================================================
+
+did busineess questions like 

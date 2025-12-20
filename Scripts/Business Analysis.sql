@@ -21,7 +21,7 @@ FROM customer
 )
 
  -- Q3. Which are the top 5 products with the highest average review rating?
- -- Created by GitHub Copilot in SSMS - review carefully before executing
+
 SELECT TOP (5) item_purchased,
        ROUND(AVG(CAST(review_rating AS numeric)) ,3) AS AvgRating
 FROM dbo.customer
